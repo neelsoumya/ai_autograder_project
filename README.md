@@ -1,6 +1,6 @@
 # AI Autograder High-Stakes Assessment
 
-This project explores whether an AI-based autograder can be reliably used in high-stake decision scenarios, such as academic grading, certification exams, or professional assessments.
+This project explores whether an AI-based autograder can be reliably used in high-stake decision scenarios, such as academic grading, visa eligibility, certification exams, or professional assessments.
 
 ## Project Objectives
 
@@ -10,9 +10,6 @@ This project explores whether an AI-based autograder can be reliably used in hig
 
 ## Project Structure
 
-- `data/` — Example datasets and student submissions.
-- `experiments/` — Experimentation scripts and evaluation metrics.
-- `results/` — Analysis and statistical results of grading comparisons.
 - `docs/` — Documentation and research notes.
 
 ## Getting Started
@@ -21,6 +18,12 @@ This project explores whether an AI-based autograder can be reliably used in hig
    ```bash
    git clone https://github.com/neelsoumya/ai_autograder_project.git
    ```
+2. Install all requirements
+   ```py
+   pip install -r requirements.txt
+   ```
+3. Open the IPython notebook in Google Colab
+   
 
 ## License
 
