@@ -19,10 +19,8 @@ This project explores whether an AI-based autograder can be reliably used in hig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/ai-autograder-high-stakes-assessment.git
+   git clone https://github.com/neelsoumya/ai_autograder_project.git
    ```
-2. Review the [project objectives](#project-objectives) and structure.
-3. Contribute by opening issues or pull requests.
 
 ## License
 
