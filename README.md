@@ -24,7 +24,6 @@ This project explores whether an AI-based autograder can be reliably used in hig
    ```
 3. Open the IPython `AI_autograder_analysis.ipynb` notebook in Google Colab
 
-   https://github.com/neelsoumya/ai_autograder_project/blob/main/AI_autograder_analysis.ipynb
 
 ## License
 
