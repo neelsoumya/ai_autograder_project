@@ -4,8 +4,7 @@ This project explores whether an AI-based autograder can be reliably used in hig
 
 ## Project Objectives
 
-- Evaluate the accuracy, fairness, and reliability of an AI autograder.
-- Investigate potential risks and ethical implications of automated grading in high-stakes contexts.
+- Evaluate the accuracy and reliability of an AI autograder.
 - Develop guidelines or recommendations for deploying AI graders in critical settings.
 
 ## Project Structure
@@ -22,7 +21,7 @@ This project explores whether an AI-based autograder can be reliably used in hig
    ```py
    pip install -r requirements.txt
    ```
-3. Open the IPython `AI_autograder_analysis.ipynb` notebook in Google Colab
+3. Open the IPython `AI_autograder_analysis_FINAL.ipynb` notebook in Google Colab
 
 
 ## License
