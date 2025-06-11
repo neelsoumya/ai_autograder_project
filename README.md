@@ -21,7 +21,12 @@ This project explores whether an AI-based autograder can be reliably used in hig
    ```py
    pip install -r requirements.txt
    ```
-3. Open the IPython `AI_autograder_analysis_FINAL.ipynb` notebook in Google Colab
+
+3. Store the contents of this repository in Google Drive in a folder named `AI_autograder_task` in the path
+
+`My Drive/Colab Notebooks/AI_autograder_task`
+
+5. Open the IPython `AI_autograder_analysis_FINAL.ipynb` notebook in Google Colab
 
 
 ## License
